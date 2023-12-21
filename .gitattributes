@@ -1,0 +1,14 @@
+미션4_축구데이터수집 filter=lfs diff=lfs merge=lfs -text
+미션5_야구승률추정 filter=lfs diff=lfs merge=lfs -text
+미션1_유아코딩빈도분석 filter=lfs diff=lfs merge=lfs -text
+미션2_야구데이터수집 filter=lfs diff=lfs merge=lfs -text
+미션3_방사선조사분석 filter=lfs diff=lfs merge=lfs -text
+정리 filter=lfs diff=lfs merge=lfs -text
+DISC스크린샷.png filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+미션6_축구승률추정 filter=lfs diff=lfs merge=lfs -text
+강의자료 filter=lfs diff=lfs merge=lfs -text
+미션10_WHIP filter=lfs diff=lfs merge=lfs -text
+미션9_축구분산분석추가 filter=lfs diff=lfs merge=lfs -text
+미션7_야구수정및썸네일 filter=lfs diff=lfs merge=lfs -text
+미션8_야구분산분석추가 filter=lfs diff=lfs merge=lfs -text
